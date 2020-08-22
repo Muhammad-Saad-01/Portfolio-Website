@@ -36,7 +36,7 @@
 
 ## About The Project
 
-<img src="/assets/img/screenshot.png" >
+<img src="https://github.com/Muhammad-Saad-01/Portfolio-Website/blob/master/assets/img/Screenshot.png" >
 The website is based on Material Design's Dark Theme and is fully responsive to all the devices of different screen sizes.
 
 ### Built With
