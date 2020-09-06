@@ -80,7 +80,8 @@ This project is registered under the MIT License.
 -   [Jquery]()
 -   [Isotope Layout]()
 -   [Bootstrap]()
-
+-   [Particles.js]()
+-   [txt-rotate.js]()
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [product-screenshot]: images/screenshot.png
