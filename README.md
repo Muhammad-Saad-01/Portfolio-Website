@@ -13,7 +13,7 @@
     <a href="https://github.com/Muhammad-Saad-01/Portfolio-Website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://muhammad-saad.me">View Demo</a>
+    <a href="https://muhammad-saad.net">View Demo</a>
     ·
     <a href="https://github.com/Muhammad-Saad-01/Portfolio-Website/issues">Report Bug</a>
     
@@ -68,7 +68,7 @@ This project is registered under the MIT License.
   <a href="https://twitter.com/MuhammadSa3d01"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammad-saad-01"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/muhammadsaad01"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
-  <a href="mailto:me@muhammad-saad.me"><img src="https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@muhammad-saad.me"></a>
+  <a href="mailto:me@muhammad-saad.net"><img src="https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@muhammad-saad.net"></a>
 </p>
 
 ## Acknowledgements
